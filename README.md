@@ -71,4 +71,4 @@ b. Word is assigned Value, note this is by default since Word are in the Value p
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: www.linkedin.com/in/justin-bucsa
+[linkedin-url]: https://www.linkedin.com/in/justin-bucsa
